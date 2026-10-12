@@ -1,0 +1,11 @@
+rank,fips,county_name,state_abbr,metro_area,mean_premium_LLS_pct,kids_under6_allpar_lf,score,in_top10
+1,51013,Arlington County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",61.191452575212395,11577.0,0.8666666666666667,True
+2,51510,Alexandria City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",49.99055791430606,8813.0,0.7833333333333333,True
+3,06075,San Francisco County,CA,"San Francisco-Oakland-Hayward, CA",36.052895121933496,30027.0,0.7166666666666667,True
+4,27109,Olmsted County,MN,"Rochester, MN",33.303346211893924,9533.0,0.7,True
+5,41051,Multnomah County,OR,"Portland-Vancouver-Hillsboro, OR-WA",31.624723358905563,32227.0,0.5666666666666667,True
+6,24027,Howard County,MD,"Baltimore-Columbia-Towson, MD",31.567784058673453,16287.0,0.5333333333333333,True
+7,13139,Hall County,GA,"Gainesville, GA",32.96880468434026,9215.0,0.5,True
+8,27123,Ramsey County,MN,"Minneapolis-St. Paul-Bloomington, MN-WI",27.32212574579721,30041.0,0.4,False
+9,47163,Sullivan County,TN,"Kingsport-Bristol-Bristol, TN-VA",28.215796824214806,5603.0,0.23333333333333334,True
+10,39155,Trumbull County,OH,"Youngstown-Warren-Boardman, OH-PA",27.60472064431763,7515.0,0.2,False

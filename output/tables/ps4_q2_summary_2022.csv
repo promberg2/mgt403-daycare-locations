@@ -1,0 +1,4 @@
+age_group,n,mean,sd,se,t_crit,ci_low,ci_high,median,min,max,distinct_prices,n_states,se_cluster,ci_low_cluster,ci_high_cluster
+Infant (0–23 months),1012,214.95,82.96,2.61,1.96,209.84,220.07,198.93,95.6,606.61,514,45,12.43,189.91,240.0
+Toddler (24–35 months),1011,186.46,66.37,2.09,1.96,182.36,190.55,170.0,97.0,520.0,494,45,9.29,167.73,205.19
+Preschool (36–54 months),1013,175.09,59.98,1.88,1.96,171.39,178.79,162.5,86.19,496.3,500,45,8.16,158.64,191.54

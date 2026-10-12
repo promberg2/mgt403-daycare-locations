@@ -1,0 +1,26 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  price   R-squared:                       0.608
+Model:                            OLS   Adj. R-squared:                  0.607
+Method:                 Least Squares   F-statistic:                     199.6
+Date:                Sat, 10 Oct 2026   Prob (F-statistic):           1.76e-57
+Time:                        17:24:42   Log-Likelihood:                -5030.9
+No. Observations:                 998   AIC:                         1.007e+04
+Df Residuals:                     995   BIC:                         1.008e+04
+Df Model:                           2                                         
+Covariance Type:              cluster                                         
+==============================================================================
+                 coef    std err          z      P>|z|      [0.025      0.975]
+------------------------------------------------------------------------------
+const        -87.9458     13.017     -6.756      0.000    -113.459     -62.433
+wage_k         7.0934      0.584     12.148      0.000       5.949       8.238
+rent_100       5.9104      0.922      6.411      0.000       4.103       7.717
+==============================================================================
+Omnibus:                      112.651   Durbin-Watson:                   1.314
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):              218.813
+Skew:                           0.700   Prob(JB):                     3.06e-48
+Kurtosis:                       4.818   Cond. No.                         200.
+==============================================================================
+
+Notes:
+[1] Standard Errors are robust to cluster correlation (CRV1)

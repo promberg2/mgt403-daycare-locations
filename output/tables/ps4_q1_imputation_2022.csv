@@ -1,0 +1,4 @@
+age_group,n_with_price,any_imputation,from_other_age_group,weekly_conversion,state_to_county_model,pctile_model,between_survey_years
+infant,1012,0.892,0.0,0.377,0.053,0.134,0.684
+toddler,1011,0.892,0.0,0.377,0.053,0.135,0.683
+preschool,1013,0.892,0.0,0.378,0.053,0.134,0.684

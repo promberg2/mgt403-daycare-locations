@@ -1,0 +1,4 @@
+comparison,n,mean,sd,se,ci_low,ci_high,se_cluster,ci_low_cluster,ci_high_cluster,pct_of_second,share_counties_first_higher,share_equal
+MCINFANT - MCTODDLER,1011,28.529,30.783,0.968,26.629,30.429,5.102,18.246,38.812,15.301,0.924,0.049
+MCTODDLER - MCPRESCHOOL,1011,11.305,18.909,0.595,10.138,12.472,2.206,6.86,15.751,6.455,0.645,0.286
+MCINFANT - MCPRESCHOOL,1012,39.808,36.852,1.158,37.534,42.081,5.703,28.315,51.3,22.728,0.964,0.0

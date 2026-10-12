@@ -1,0 +1,5 @@
+specification,overlap_with_top10,dropped,added
+Baseline: childcare-worker wage (SOC 39-9011),10,,
+Preschool-teacher wage (SOC 25-2011),8,"Hall County, GA; Sullivan County, TN","Clayton County, GA; Ramsey County, MN"
+Both wages,10,,
+Weighted by children under 6 (WLS),6,"Fairfax County, VA; Loudoun County, VA; Multnomah County, OR; Olmsted County, MN","Erie County, NY; McLean County, IL; Onondaga County, NY; St. Johns County, FL"

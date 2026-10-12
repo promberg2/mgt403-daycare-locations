@@ -1,0 +1,11 @@
+fips,county_name,state_abbr,years,survey_years,survey_list
+06075,San Francisco County,CA,7,2,"2016,2018"
+13139,Hall County,GA,8,2,"2016,2021"
+24027,Howard County,MD,8,2,"2017,2021"
+27109,Olmsted County,MN,8,3,"2016,2018,2021"
+41051,Multnomah County,OR,8,4,"2016,2018,2020,2022"
+47163,Sullivan County,TN,8,5,"2015,2016,2017,2018,2021"
+51013,Arlington County,VA,7,2,"2015,2018"
+51059,Fairfax County,VA,7,2,"2015,2018"
+51107,Loudoun County,VA,7,2,"2015,2018"
+51510,Alexandria City,VA,7,2,"2015,2018"

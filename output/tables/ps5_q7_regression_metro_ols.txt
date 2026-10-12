@@ -1,0 +1,25 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:         childcare_wage   R-squared:                       0.093
+Model:                            OLS   Adj. R-squared:                  0.091
+Method:                 Least Squares   F-statistic:                     38.26
+Date:                Tue, 06 Oct 2026   Prob (F-statistic):           1.63e-09
+Time:                        19:18:27   Log-Likelihood:                -3640.1
+No. Observations:                 373   AIC:                             7284.
+Df Residuals:                     371   BIC:                             7292.
+Df Model:                           1                                         
+Covariance Type:            nonrobust                                         
+========================================================================================
+                           coef    std err          t      P>|t|      [0.025      0.975]
+----------------------------------------------------------------------------------------
+const                 2.269e+04    833.638     27.216      0.000     2.1e+04    2.43e+04
+female_college_share  1.568e+04   2534.279      6.186      0.000    1.07e+04    2.07e+04
+==============================================================================
+Omnibus:                       40.134   Durbin-Watson:                   2.030
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               49.976
+Skew:                           0.873   Prob(JB):                     1.41e-11
+Kurtosis:                       3.406   Cond. No.                         12.8
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

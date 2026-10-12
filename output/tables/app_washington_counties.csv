@@ -1,0 +1,24 @@
+fips,n,avg,nat,county_name,state_abbr,metro,kids_2022,in_top10
+51013,7,61.191452575212395,45.968821333085415,Arlington County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",11577.0,True
+51510,7,49.99055791430606,32.89185076976106,Alexandria City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",8813.0,True
+51685,7,36.19699115804151,20.527722159938442,Manassas Park City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",816.0,False
+51107,7,34.841510282556115,21.040138807247104,Loudoun County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",22329.0,True
+51610,7,33.31399344809149,19.134778574009097,Falls Church City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",578.0,False
+51600,7,31.941168277569925,18.216029271956028,Fairfax City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1685.0,False
+51059,7,29.930600458831375,17.008875603449887,Fairfax County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",57257.0,True
+24031,8,23.259540207977427,10.11927657508138,Montgomery County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",54089.0,False
+51683,7,14.949878418795814,-0.33443906424060554,Manassas City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2575.0,False
+51153,7,11.566678243650028,-1.4099192175197932,Prince William County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",25172.0,False
+24021,8,1.465161556589682,-12.351539552569083,Frederick County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",13423.0,False
+51157,7,-0.6004523859736141,-18.58864851154087,Rappahannock County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",133.0,False
+51179,7,-4.306389553397779,-16.509760603127212,Stafford County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",7352.0,False
+51630,7,-4.578359554628998,-20.209409014962553,Fredericksburg City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1157.0,False
+24033,8,-5.282751659243126,-17.77704244619737,Prince George's County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",52077.0,False
+54037,8,-6.320678485480963,-17.377567706797095,Jefferson County,WV,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2388.0,False
+24009,8,-9.197812743892598,-20.289087538208207,Calvert County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",4130.0,False
+51047,7,-10.585340230398169,-25.731383918664516,Culpeper County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",2758.0,False
+51177,7,-11.088744488049645,-23.29427044258178,Spotsylvania County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",5928.0,False
+24017,8,-12.238879351271734,-22.34098020617338,Charles County,MD,"Washington-Arlington-Alexandria, DC-VA-MD-WV",8552.0,False
+51043,7,-13.97423148979978,-28.98124436462533,Clarke County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",380.0,False
+51061,7,-15.964074227326957,-29.044075561079808,Fauquier County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",3366.0,False
+51187,7,-21.34955932676754,-36.223179961800234,Warren County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",1171.0,False

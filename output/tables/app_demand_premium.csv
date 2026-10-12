@@ -1,0 +1,11 @@
+model,variable,coef_pct_per_sd,se_log,p,n,r2_within
+Used in the score,Children needing care (log),1.6048223926145022,0.007201239808404481,0.027046692681726416,972,
+Used in the score,Care-need share,-0.5543428877499035,0.007729185715778484,0.4720160788285923,972,
+Used in the score,Income per capita (log),1.9732308910290763,0.00874235301575643,0.02540990311590502,972,
+Used in the score,R² (with state effects) / N,0.050959348326085174,,,972,
++ the two unused ACS shares,Children needing care (log),0.4896721264355586,0.007840877248513362,0.5332925011021499,972,
++ the two unused ACS shares,Care-need share,-0.025184521046894837,0.007754938339964746,0.9740896219764303,972,
++ the two unused ACS shares,Income per capita (log),-0.32544368356302034,0.009489941182346268,0.7312263643286647,972,
++ the two unused ACS shares,Female college share,3.6469618779088053,0.01082935895179588,0.0009406333109343725,972,
++ the two unused ACS shares,Female full-time share,-0.7168631926537605,0.005392158548128592,0.18212421730641137,972,
++ the two unused ACS shares,R² (with state effects) / N,0.08380127389285974,,,972,

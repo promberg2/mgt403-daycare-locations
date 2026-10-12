@@ -1,0 +1,5 @@
+group,n_in_2022,mean_premium_2022,share_positive,share_top_quintile,overlap_with_2022_top10
+Top 10 by full rule as of 2018,8,43.54675140340208,1.0,1.0,7.0
+All other counties,990,0.5889517380654818,0.48787878787878786,0.19393939393939394,
+"Top 10 by full rule as of 2018, excl. CA/VA (2022 prices extrapolated)",5,24.957977658854738,1.0,1.0,
+"All other counties, excl. CA/VA",877,0.6495129457028385,0.4982896237172178,0.18700114025085518,

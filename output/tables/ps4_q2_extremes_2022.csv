@@ -1,0 +1,31 @@
+age_group,rank,county,state,metro_area,price
+infant,lowest,Wabaunsee County,KS,"Topeka, KS",95.6
+infant,lowest,Sumner County,KS,"Wichita, KS",95.6
+infant,lowest,Kingman County,KS,"Wichita, KS",95.6
+infant,lowest,Doniphan County,KS,"St. Joseph, MO-KS",95.6
+infant,lowest,Osage County,KS,"Topeka, KS",95.6
+infant,highest,San Francisco County,CA,"San Francisco-Oakland-Hayward, CA",606.61
+infant,highest,Suffolk County,MA,"Boston-Cambridge-Nashua, MA-NH",590.0
+infant,highest,Arlington County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",559.34
+infant,highest,Norfolk County,MA,"Boston-Cambridge-Nashua, MA-NH",555.0
+infant,highest,San Mateo County,CA,"San Francisco-Oakland-Hayward, CA",554.56
+toddler,lowest,Chatham County,GA,"Savannah, GA",97.0
+toddler,lowest,Doniphan County,KS,"St. Joseph, MO-KS",97.6
+toddler,lowest,Osage County,KS,"Topeka, KS",97.6
+toddler,lowest,Kingman County,KS,"Wichita, KS",97.6
+toddler,lowest,Sumner County,KS,"Wichita, KS",97.6
+toddler,highest,Norfolk County,MA,"Boston-Cambridge-Nashua, MA-NH",520.0
+toddler,highest,Arlington County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",496.3
+toddler,highest,Suffolk County,MA,"Boston-Cambridge-Nashua, MA-NH",493.05
+toddler,highest,District of Columbia,DC,"Washington-Arlington-Alexandria, DC-VA-MD-WV",450.6
+toddler,highest,San Francisco County,CA,"San Francisco-Oakland-Hayward, CA",433.45
+preschool,lowest,Pamlico County,NC,"New Bern, NC",86.19
+preschool,lowest,Yadkin County,NC,"Winston-Salem, NC",91.22
+preschool,lowest,Gates County,NC,"Virginia Beach-Norfolk-Newport News, VA-NC",92.54
+preschool,lowest,Rockingham County,NC,"Greensboro-High Point, NC",92.54
+preschool,lowest,Osage County,KS,"Topeka, KS",97.6
+preschool,highest,Arlington County,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",496.3
+preschool,highest,San Francisco County,CA,"San Francisco-Oakland-Hayward, CA",477.04
+preschool,highest,San Mateo County,CA,"San Francisco-Oakland-Hayward, CA",437.17
+preschool,highest,Marin County,CA,"San Francisco-Oakland-Hayward, CA",433.34
+preschool,highest,Alexandria City,VA,"Washington-Arlington-Alexandria, DC-VA-MD-WV",424.29

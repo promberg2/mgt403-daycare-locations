@@ -1,0 +1,14 @@
+group,variable,label,source,mean,sd,n,min,max
+Outcome: childcare price,price_preschool_real2022,"Preschool price, center-based median ($/week)",NDCP MCPRESCHOOL,174.47948897795595,59.75492647769255,998,86.19,496.3
+Outcome: childcare price,price_infant_real2022,"Infant price, center-based median ($/week)",NDCP MCINFANT,214.02928786359078,82.61721231120475,997,95.6,606.61
+Outcome: childcare price,price_toddler_real2022,"Toddler price, center-based median ($/week)",NDCP MCTODDLER,185.46733935742975,65.47075865179436,996,97.0,520.0
+Costs,childcare_wage_real2022,Childcare-worker mean annual wage ($),OEWS SOC 39-9011,27780.470941883766,4350.794584810337,998,19540.0,41700.0
+Costs,median_gross_rent_real2022,Median gross rent ($/month),ACS B25064_001E,1105.9669338677354,336.4017811842998,998,430.0,2805.0
+Demand,per_capita_income_real2022,Per-capita income ($/year),ACS B19301_001E,37859.08817635271,9457.048166224775,998,16368.0,89702.0
+Demand,pop_total,Total population,ACS B01001_001E,255802.99899799598,551110.3829093665,998,50.0,9936690.0
+Demand,kids_under6,Own children under 6,ACS B23008_002E,17151.19238476954,37250.0438704724,998,0.0,616046.0
+Demand,kids_under6_allpar_lf,"Under 6, all resident parents in labor force",ACS B23008_004E+010E+013E,11537.889779559118,24539.44199058944,998,0.0,406465.0
+Demand,female_college_share,Share of women 25+ with bachelor's or higher,ACS B15002,0.3061879967915906,0.1105643280341371,998,0.0811783224645828,0.776125322228832
+Demand,female_ftyr_share,Share of women 16-64 full-time year-round,ACS B23022,0.4462188533480585,0.05589828016573444,998,0.2115844901866922,0.7142857142857143
+Demand,under6_share,Share of population under 6,kids_under6 / pop_total,0.0643623281764018,0.011446855824307822,998,0.0,0.1092753623188405
+Demand,under6_careneed_share,Share of population under 6 needing care,kids_under6_allpar_lf / pop_total,0.04323196167563195,0.00895145627424727,998,0.0,0.0695074663806616

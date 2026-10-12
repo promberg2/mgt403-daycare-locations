@@ -1,0 +1,11 @@
+variant,overlap_with_top10,dropped,added,status
+Previous design: pool ranked on 2022 premium only,6,"Fairfax County, VA; Hall County, GA; Multnomah County, OR; Sullivan County, TN","Alameda County, CA; Marin County, CA; McLean County, IL; San Mateo County, CA",not counted: replaced by D2 (2022 extrapolations)
+Average premium 2015-2020 (excludes NDCP 2022 extrapolation),9,"Sullivan County, TN","Milwaukee County, WI",counted
+Average premium 2015-2019 (pre-COVID),9,"Howard County, MD","Milwaukee County, WI",counted
+"Level instead of log premium (LS, $/week, state effects)",7,"Hall County, GA; Howard County, MD; Sullivan County, TN","Milwaukee County, WI; Norfolk County, MA; Ramsey County, MN",counted
+"National premium, no state effects (LL)",1,"Alexandria City, VA; Arlington County, VA; Fairfax County, VA; Hall County, GA; Howard County, MD; Loudoun County, VA; Multnomah County, OR; San Francisco County, CA; Sullivan County, TN","Brown County, WI; Dane County, WI; Milwaukee County, WI; Outagamie County, WI; Racine County, WI; Ramsey County, MN; Sheboygan County, WI; Waukesha County, WI; Winnebago County, WI","not counted: rejected in D1 (selects states, not markets)"
+Weights 70% premium / 30% demand,10,,,not counted: cannot change the list by construction
+Weights 30% premium / 70% demand,10,,,not counted: cannot change the list by construction
+Persistence: one negative year allowed,10,,,not counted: cannot change the list by construction
+Market threshold: 25th percentile,9,"Sullivan County, TN","Fairfax City, VA",counted
+Candidate pool: top 30 instead of top 20,9,"Sullivan County, TN","Ramsey County, MN",counted
